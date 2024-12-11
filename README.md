@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/660e0c79-23bb-488b-a5c4-151b7a8ed215" alt="CatlaughImage" width="150" height="150"/>
+
 # Cat Jokes
 Add some purr-fect fun to your code with random cat jokes! This package generates a variety of cat-themed jokes to lighten up your development experience. <br>
 
