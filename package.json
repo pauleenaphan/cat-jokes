@@ -1,6 +1,6 @@
 {
   "name": "cat-jokes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generates cat jokes",
   "main": "index.js",
   "scripts": {
