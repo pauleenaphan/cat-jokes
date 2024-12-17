@@ -8,10 +8,6 @@
         "answer": "Purr-ple!"
     },
     {
-        "joke": "Why don’t cats play poker in the jungle?",
-        "answer": "Too many cheetahs!"
-    },
-    {
         "joke": "What do you get when you cross a cat with a dark horse?",
         "answer": "A purrfectly mysterious creature!"
     },
@@ -38,10 +34,6 @@
     {
         "joke": "Why did the cat go to Minnesota?",
         "answer": "Because it wanted to visit the 'Meow-sota'!"
-    },
-    {
-        "joke": "Why did the cat join Instagram?",
-        "answer": "Because it wanted to get more followers!"
     },
     {
         "joke": "What’s a cat’s favorite place to go online?",
@@ -326,5 +318,13 @@
     {
         "joke": "What do you call a cat that’s an artist?",
         "answer": "A paw-traitist!"
+    },
+    {
+        "joke": "What did teh alien say to the cat?",
+        "answer": "Take me to your litter."
+    },
+    {
+        "joke": "What is a cat's way of keeping law and order?",
+        "answer": "Claw Enforcement!"
     }
 ]
